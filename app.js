@@ -14,7 +14,7 @@ function initialize() {
         '</style>' +
         '<script>' +
         js.value +
-        '</script'
+        '</script>'
     );
     code.close();
   };
